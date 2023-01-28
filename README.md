@@ -4,6 +4,10 @@
  
    👋 Hi, I’m Nesrine : industrial Computer engineer 
   I have a Master's degree in Information Systems and New Technologies : Machine Learning and data mining
+  
+  
+  
+  
   👀 I’m interested in data science and IA . I'm very passionate about Artificial Intelligence: NLP 
 
 
